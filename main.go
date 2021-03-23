@@ -9,5 +9,5 @@ func main() {
 }
 
 func run() string {
-	return "Setup Travis CI for Golang"
+	return "Setup Travis CI for Golang :)"
 }

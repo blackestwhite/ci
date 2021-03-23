@@ -11,7 +11,7 @@ before_install:
 
 script:
   - make lint test
-  - docker build -t blackestwhite/ci .
+  - docker build -t ci .
 
 deploy:
   provider: script
